@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SimpleRssReader</string>
+    <string name="string_feed">Feeds:</string>
+    <string name="add_feed">Añadir Feed</string>
+    <string name="menu_gestion_feeds">Gestion de Feeds</string>
+    <string name="ctx_menu_delete">Eliminar</string>
+    <string name="noticias_text">Noticias:</string>
+
+</resources>
